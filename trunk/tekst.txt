@@ -2,3 +2,4 @@
 mama
 papa
 Додаю текст за допомогою Notepad++
+I write with Git
